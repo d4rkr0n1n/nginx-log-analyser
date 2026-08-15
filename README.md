@@ -22,9 +22,9 @@ I created a shell script that reads the log file and provides the following info
 4. Top 5 user agents
 
 ## Commands
-vagrant up - For starting and provisioning the VM using vagrant.
-vagrant reload - For applying configuration changes using vagrant.
-vagrant provision - For provisioning file and shell using vagrant.
-vagrant destroy; vagrant up - For destroying and provisioning the VM in sequence using vagrant.
+``vagrant up`` - For starting and provisioning the VM using vagrant.
+``vagrant reload`` - For applying configuration changes using vagrant.
+``vagrant provision`` - For provisioning file and shell using vagrant.
+``vagrant destroy; vagrant up`` - For destroying and provisioning the VM in sequence using vagrant.
 
 Project URL: https://roadmap.sh/projects/nginx-log-analyser
