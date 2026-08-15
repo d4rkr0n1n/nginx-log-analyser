@@ -27,4 +27,4 @@ I created a shell script that reads the log file and provides the following info
 - ``vagrant provision`` - For provisioning file and shell using vagrant.
 - ``vagrant destroy; vagrant up`` - For destroying and provisioning the VM in sequence using vagrant.
 
-Project URL: https://roadmap.sh/projects/nginx-log-analyser
+## Project URL: https://roadmap.sh/projects/nginx-log-analyser
