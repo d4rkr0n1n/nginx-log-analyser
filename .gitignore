@@ -1,6 +1,5 @@
 # Vagrant
 .vagrant/
-*.log
 
 # VirtualBox
 *.vbox
@@ -34,10 +33,6 @@ venv/
 # Node (if CLI tooling uses it)
 node_modules/
 npm-debug.log*
-
-# Local log output / analysis artifacts
-logs/
-*.local.log
 
 TODO.md
 NOTES.md
