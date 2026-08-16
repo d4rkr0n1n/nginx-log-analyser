@@ -3,6 +3,17 @@
 ## About the project
 The goal of this project is to help me practice some basic shell scripting skills. I wrote a simple tool to analyze logs from the command line using Vagrant VM.
 
+## Repotree
+```
+├── scripts
+│   ├── server-stats.sh
+│   └── setup.sh
+├── .gitignore
+├── LICENSE
+├── README.md
+└── Vagrantfile
+```
+
 ## Specification
 Using the sample nginx access log file from ``/logs/access.log``. The log file contains the following fields:
 
